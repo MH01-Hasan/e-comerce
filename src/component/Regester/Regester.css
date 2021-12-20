@@ -1,0 +1,37 @@
+.regester-fild{
+    background-color: #c2e3e3;
+    width: 278px;
+    margin: auto;
+    margin-top: 121px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.input-fild{
+    width: 100%;
+    border: 1px solid #91480ccf;
+}
+
+.regester-btn{
+    background-color: #a398af;
+    border: navajowhite;
+    margin-top: 16px;
+    font-family: auto;
+    border-radius: 5px;
+    padding: 3px 19px;
+    color: #9005f9;
+}
+
+.regester-text{
+    color: #ca0ee1;
+    font-family: serif;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+.tag-link{
+    color: #ff002f;
+    font-size: 15px;
+    font-family: none;
+    margin-top: 15px;
+}

@@ -1,0 +1,30 @@
+.service-ion{
+    font-size: 62px;
+    margin: auto;
+    color: #0000009c;
+}
+
+.service{
+    text-align: -webkit-center;
+}
+
+.content{
+    font-family: revert;
+    margin-top: 22px;
+    font-size: 14px;
+    color: #00000099;
+}
+
+.content-h5{
+    margin-top: 24px;
+    margin-bottom: -14px;
+    font-family: serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.service-fild{
+    text-align: center;
+    margin-top: 125px;
+}

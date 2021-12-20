@@ -1,0 +1,60 @@
+.cart-fild{
+    /* width: 200px; */
+    height:300px;
+    
+
+}
+
+.spniers-btn{
+   margin-left: 320px;
+   margin-top: 200px;
+}
+
+.image-card{
+    height: 170px;
+}
+
+.add-bbtn{
+    border: none;
+    background-color: white;
+}
+
+.add-footer{
+    margin-top: 7px;
+}
+
+.price-card{
+    color: red;
+    margin-left: 41px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.icon{
+    color: #213c33;
+    font-size: 29px;
+    margin-top: 10px;
+}
+
+.icon-a{
+    color: #213c33;
+    font-size: 29px;
+    margin-top: 10px;
+    margin-left: 13px;
+
+}
+
+.product-text{
+    text-align: center;
+}
+
+.view-all{
+    border: navajowhite;
+    background-color: #a35f6a;
+    border-radius: 9px;
+    padding: 7px 19px;
+    color: white;
+    display: flex;
+    margin: auto;
+}

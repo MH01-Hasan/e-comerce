@@ -1,0 +1,45 @@
+
+
+.image{
+    height: 466px;
+}
+.banner3{
+    background-image: linear-gradient(#d1a2ac, #cfa0aa,#d1a2ac,#ce9fa9,#dab2ba);
+}
+
+.banner-two{
+    background-image: linear-gradient(#fad5cd,#f7cec8, #ffe1dd);
+}
+.dispicriton{
+    margin-top: 78px;
+    margin-left: 45px;
+}
+.taitel{
+    font-family: math;
+    letter-spacing: 8px;
+    color: #f04418e6;
+    font-weight: bolder;
+    font-size: 21px;
+
+}
+.name{
+    color: #22211e;
+    font-family: initial;
+    letter-spacing: 6px;
+}
+
+.shop-link{
+    color: #20100b;
+    background-color: #d80e1982;
+    border: #7c5f32;
+    border-radius: 6px;
+    padding: 5px 15px;
+    font-family: none;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+.con-text{
+    color: #22211ede;
+    font-family: monospace;
+}
+

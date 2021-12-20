@@ -1,0 +1,13 @@
+.input-aria{
+    display: flex;
+    width: 255px;
+    margin-top: 9px;
+    margin-bottom: 11px;
+}
+
+.input-text{
+    border: 1px solid gray;
+    width: 273px;
+    margin: auto;
+    padding: 10px;
+}

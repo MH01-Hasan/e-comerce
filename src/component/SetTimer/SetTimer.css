@@ -1,0 +1,29 @@
+.time{
+    border: 1px solid gray;
+    display: inline-flex;
+    /* margin-left: 22px; */
+    background-color: bisque;
+    border-radius: 15px;
+}
+
+.day{
+    margin: 14px;
+    text-align: center;
+    color: red;
+    font-family: initial;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.day-time{
+    font-size: 13px;
+    font-family: serif;
+    letter-spacing: 1px;
+    color: #a25e69;
+    font-weight: bolder;
+    margin-top: 7px;
+}
+
+.set-time-fild{
+    background-color: #F9EAEE;
+}

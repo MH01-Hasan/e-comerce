@@ -1,0 +1,37 @@
+.lodding{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.details-name{
+    color: #a31d1d;
+    font-family: initial;
+    letter-spacing: 2px
+
+}
+
+.discription{
+    color: #101010e3;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.price-details{
+    font-size: 18px;
+    margin-top: 12px;
+    font-weight: 700;
+    font-family: serif;
+    letter-spacing: 3px;
+
+}
+
+.details-add-to{
+    color: #060101;
+    background-color: #d5c4b2;
+    border-radius: 4px;
+    padding: 2px 21px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 17px;
+
+}
