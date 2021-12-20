@@ -12,7 +12,7 @@ const Details = () => {
     console.log(data)
 
     useEffect(()=>{
-        fetch(`http://localhost:5000/Product/${id}`)
+        fetch(`https://secure-island-42519.herokuapp.com/Product/${id}`)
         .then(res => res.json())
         .then(data => setData(data))
     },[])

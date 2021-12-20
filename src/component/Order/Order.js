@@ -20,7 +20,7 @@ const Order = () => {
     
   
     const handelcart = (cart)=>{
-        axios.post('http://localhost:5000/order',cart)
+        axios.post('https://secure-island-42519.herokuapp.com/order',cart)
         .then(res => {
             dispatch(crealecart())
             
@@ -28,7 +28,7 @@ const Order = () => {
     })}
 
     const onSubmit = (data) => {
-        axios.post('http://localhost:5000/order',data)
+        axios.post('https://secure-island-42519.herokuapp.com/order',data)
         .then(res => {
             if(res.data.insertedId){
                 dispatch(crealecart())

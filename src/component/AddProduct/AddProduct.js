@@ -9,7 +9,7 @@ const AddProduct = () => {
 
 
     const onSubmit = data => {
-        axios.post('http://localhost:5000/Product',data)
+        axios.post('https://secure-island-42519.herokuapp.com/Product',data)
         .then(res => {
             if(res.data.insertedId){
                 alert('sussces fully add product')
